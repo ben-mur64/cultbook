@@ -1,4 +1,6 @@
-# cultbook
+# Cultbook
+
+Like Facebook, but for finding other Lovecraftian cult worshippers! Creative Project 3 for CS 260 at BYU.
 
 ## Project setup
 ```
