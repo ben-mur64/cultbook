@@ -11,7 +11,6 @@
             <router-link class="nav-link" to="/">Home</router-link>
             <router-link class="nav-link" to="/find">Find People</router-link>
             <router-link class="nav-link" to="/friends">My Friends</router-link>
-            <router-link class="nav-link" to="/profile">My Profile</router-link>
           </div>
         </div>
       </div>
@@ -42,7 +41,6 @@
 
 .site-title {
   color: #ffffff;
-  /* background-color: #0052B8; */
   display: flex;
   justify-content: center;
   text-align: center;

@@ -3,7 +3,6 @@ import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import Find from '../views/Find.vue'
 import Friends from '../views/Friends.vue'
-import Profile from '../views/Profile.vue'
 
 Vue.use(VueRouter)
 
@@ -23,10 +22,6 @@ const routes = [
     name: 'Friends',
     component: Friends
   },
-  {
-    path: '/profile',
-    name: 'Profile',
-    component: Profile}
 ]
 
 const router = new VueRouter({
