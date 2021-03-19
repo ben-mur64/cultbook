@@ -1,4 +1,4 @@
-[
+let mock = [
   {
     "id": 1,
     "full_name": "Evan Schumm III",
@@ -700,3 +700,5 @@
     "god": "Daoloth"
   }
 ]
+
+export default mock;
